@@ -1,4 +1,4 @@
-# Calculadora de Impuestos y Subsidios Colombia 2025 
+# Calculadora de Impuestos y Subsidios
 
 ¡Un programa inteligente que simula cómo funciona el sistema tributario y de subsidios en Colombia según tu ingreso, edad y personas a cargo!
 
